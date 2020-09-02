@@ -1,1 +1,1 @@
-window.Instascan = require('./index');
+window.InstaQR = require('./index');

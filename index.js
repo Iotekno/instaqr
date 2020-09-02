@@ -1,9 +1,9 @@
 require('babel-polyfill');
 require('webrtc-adapter');
 
-var Instascan = {
+var InstaQR = {
   Scanner: require('./src/scanner'),
   Camera: require('./src/camera')
 };
 
-module.exports = Instascan;
+module.exports = InstaQR;
